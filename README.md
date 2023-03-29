@@ -20,7 +20,7 @@
 2. Clone the repository to your local system.
 
 ```bash
-  git clone https://github.com/<YOUR_GITHUB_USERNAME>/C-Programs
+  git clone https://github.com/<YOUR_GITHUB_USERNAME>/CPP-Programs
 ```
 3. Create a new branch.
 

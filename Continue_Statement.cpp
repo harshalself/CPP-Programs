@@ -1,3 +1,5 @@
+// NAME : HARSHAL PATIL
+
 #include<iostream>
 using namespace std;
 int main()
@@ -18,3 +20,10 @@ int main()
     }
     return 0;
 }
+
+/* Enter Number of terms : 5
+
+ Divisible by Number : 2
+
+ Number not Divisible by 2 are : 1
+3*/

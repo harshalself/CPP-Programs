@@ -1,3 +1,5 @@
+// NAME : HARSHAL PATIL
+
 #include<iostream>
 #include<string.h>
 #include<conio.h>
@@ -20,3 +22,11 @@ int main()
 
     return 0;
 }
+
+/* HELLO MY NAME IS HARSHAL 
+ This is My Official Account 
+ Here I will be Posting Content Related to 
+ Coding, Photography and More such Things 
+ Do Follow and 
+ Don't forget to Like 
+ THANK YOU*/

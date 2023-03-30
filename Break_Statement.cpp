@@ -1,3 +1,5 @@
+// NAME : HARSHAL PATIL
+
 #include<iostream>
 using namespace std;
 int main()
@@ -22,3 +24,17 @@ int main()
     
     return 0;
 }
+
+/* Enter Number of terms : 5 
+
+ Enter Positive Integer : 5
+
+ Enter Positive Integer : 6
+
+ Enter Positive Integer : 7
+
+ Enter Positive Integer : 8
+
+ Enter Positive Integer : 3
+
+ Sum is 29*/

@@ -27,6 +27,6 @@ int main()
 }
 
 // Output
+/* Enter Number : 67
 
-
-
+ Number is POSITIVE*/

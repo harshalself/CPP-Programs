@@ -23,6 +23,9 @@ int main()
 }
 
 // Output
+/* Enter Dividend : 89
 
+ Enter Divisor : 3
 
-
+ Quotient is : 29
+ Remainder is : 2*/

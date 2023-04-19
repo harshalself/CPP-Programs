@@ -24,6 +24,10 @@ int main()
 }
 
 // Output
+/* Enter Principle Amount(Rupees) : 10000
 
+ Enter Rate of Intrest(%) : 7
 
+ Enter Time Period(Years) : 5
 
+ Simple Intrest is : Rupees 3500*/

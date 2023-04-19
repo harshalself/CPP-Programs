@@ -60,8 +60,29 @@ int peri(float a,float b)
 	peri=2*(a+b);
 	return peri;
 }
-
 // Output
+/* Enter Length : 15
 
+ Enter Breadth : 12
 
+ Choose Operation :
+ 1. Perimeter of Rectangle
+ 2. Area of Rectangle
+ 3. Exit
+ Enter Choice : 1
 
+ Perimeter of Rectangle is : 54
+ Do you want  to Continue (1. Y, 2. N) : 1
+
+ Enter Length : 15
+
+ Enter Breadth : 13
+
+ Choose Operation :
+ 1. Perimeter of Rectangle
+ 2. Area of Rectangle
+ 3. Exit
+ Enter Choice : 2
+
+ Area Of Rectangle is : 195
+ Do you want  to Continue (1. Y, 2. N) : 2*/
